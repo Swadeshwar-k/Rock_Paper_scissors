@@ -16,6 +16,10 @@ A simple web-based Rock-Paper-Scissors game built using HTML, CSS, and JavaScrip
 ├── style.css # Stylesheet for layout and design
 └── index.js # Game logic in JavaScript
 
+## Live
+url-(https://swadu11.github.io/Rock_Paper_scissors/)
+
+
 
 ## 🛠 How to Run
 

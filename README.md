@@ -17,7 +17,7 @@ A simple web-based Rock-Paper-Scissors game built using HTML, CSS, and JavaScrip
 └── index.js # Game logic in JavaScript
 
 ## Live
-url-(https://swadu11.github.io/Rock_Paper_scissors/)
+url-([https://rock-paper-scissors-eg7v.vercel.app/])
 
 
 
